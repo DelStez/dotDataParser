@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30114.105
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "r2-items-parser", "r2-items-parser.csproj", "{1998169A-1A6C-4F3E-87A8-81238D9AE5EB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1998169A-1A6C-4F3E-87A8-81238D9AE5EB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1998169A-1A6C-4F3E-87A8-81238D9AE5EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1998169A-1A6C-4F3E-87A8-81238D9AE5EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1998169A-1A6C-4F3E-87A8-81238D9AE5EB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5A586740-D04F-4B09-9AE0-746508E5DAE3}
+	EndGlobalSection
+EndGlobal

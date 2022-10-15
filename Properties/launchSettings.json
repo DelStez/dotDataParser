@@ -1,0 +1,16 @@
+{
+  "profiles": {
+    "r2-items-parser": {
+      "commandName": "Project",
+      "commandLineArgs": "-g \"D:\\games\\revolgc\" -l \"LangPaRU.tsv\" -d \"Info.dat\" --psize 55"
+    },
+    "r2-items-parser-hazy": {
+      "commandName": "Project",
+      "commandLineArgs": "-g \"D:\\games\\hazy\" -l \"LangPack.tsv\" -d \"Info.dat\" --psize 56"
+    },
+    "r2-items-parser-oreon": {
+      "commandName": "Project",
+      "commandLineArgs": "-g \"C:/Games/R2AnyTime\" -l \"LangPaRU.tsv\" -d \"Info.dat\" --psize 55"
+    }
+  }
+}
