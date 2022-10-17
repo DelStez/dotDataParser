@@ -16,5 +16,16 @@ namespace dotDataParser
         {
             InitializeComponent();
         }
+
+        private byte[] read()
+        {
+            return null;
+        }
+
+        static Dictionary<string, Dictionary<string, object>> GetItemsFromFile()
+        {
+            return null;
+        }
+        
     }
 }
