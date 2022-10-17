@@ -17,15 +17,10 @@ namespace dotDataParser
             InitializeComponent();
         }
 
-        private byte[] read()
-        {
-            return null;
-        }
 
-        static Dictionary<string, Dictionary<string, object>> GetItemsFromFile()
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            return null;
+            throw new System.NotImplementedException();
         }
-        
     }
 }

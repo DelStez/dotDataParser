@@ -1,0 +1,11 @@
+G:\GitHub\dotDataParser\dotDataParser\dotDataParser\bin\Debug\dotDataParser.exe.config
+G:\GitHub\dotDataParser\dotDataParser\dotDataParser\bin\Debug\dotDataParser.exe
+G:\GitHub\dotDataParser\dotDataParser\dotDataParser\bin\Debug\dotDataParser.pdb
+G:\GitHub\dotDataParser\dotDataParser\dotDataParser\obj\Debug\dotDataParser.csproj.AssemblyReference.cache
+G:\GitHub\dotDataParser\dotDataParser\dotDataParser\obj\Debug\dotDataParser.csproj.SuggestedBindingRedirects.cache
+G:\GitHub\dotDataParser\dotDataParser\dotDataParser\obj\Debug\dotDataParser.Properties.Resources.resources
+G:\GitHub\dotDataParser\dotDataParser\dotDataParser\obj\Debug\dotDataParser.csproj.GenerateResource.cache
+G:\GitHub\dotDataParser\dotDataParser\dotDataParser\obj\Debug\dotDataParser.csproj.CoreCompileInputs.cache
+G:\GitHub\dotDataParser\dotDataParser\dotDataParser\obj\Debug\dotDataParser.exe
+G:\GitHub\dotDataParser\dotDataParser\dotDataParser\obj\Debug\dotDataParser.pdb
+G:\GitHub\dotDataParser\dotDataParser\dotDataParser\obj\Debug\dotDataParser.Form1.resources
